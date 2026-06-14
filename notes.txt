@@ -1,0 +1,24 @@
+Errors and warnings in cpp 
+
+-->compile time errrors
+
+--due to syntax errors 
+
+-->Runtime errors
+
+7/0;
+
+
+
+*statements and functions *
+
+A statements is a basic unit of computation in a c++ program.
+
+every c++ program is a collection of statements organised in a certain way to achieve some goal
+
+statements end with a semicolon in c ++ (;)
+
+//functions is the program inwhich we define anything to rapeated doing that work by just calling that functions
+it give us ease to not write a repated code again and again
+
+
