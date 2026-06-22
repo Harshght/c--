@@ -17,5 +17,9 @@ int main(){
     cout << "Size of the pointer variable ptr: " << sizeof(ptr) << " bytes" << endl; // Size of the pointer variable in bytes (typically 4 or 8 bytes depending on the system architecture)
     cout << "Size of the value pointed to by ptr: " << sizeof(*ptr) << " bytes" << endl; // Size of the value pointed to by ptr (size of an int, typically 4 bytes)
     cout << "Size of the pointer variable ptr: " << sizeof(int*) << " bytes" << endl; // Size of the pointer variable in bytes (typically 4 or 8 bytes depending on the system architecture)
+    
+    //int *ptr2 = 2000;  cannot assign an integer value to a pointer variable, it should be assigned the address of a variable or nullptr
+    // declaring a pointer and initializing it to nullptr (indicating that it does not point to any valid memory address)
+    
     return 0;
 } 
