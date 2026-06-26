@@ -20,3 +20,10 @@ int main(){
    
     // This line prints the value of the variable 'isStudent' to the console. Since 'isStudent' is a boolean variable with the value true, this will output "Is student: 1" to the console, where 1 represents true in C++.
 }
+
+#include <bits/stdc++.h>
+using namespace std;
+
+int main(){
+    
+}

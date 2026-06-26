@@ -10,7 +10,7 @@ int main() {
    7/0; // This will cause a runtime error (division by zero)
    int value = 7/0;
    std::cout << "Value: " << value << std::endl;     // This will also cause a runtime error (division by zero)
-    
+
     std::cout << "Sum of " << a << " and " << b << " is " << sum << std::endl;
 
 
