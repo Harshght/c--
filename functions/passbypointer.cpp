@@ -20,5 +20,8 @@ int main() {
 
     cout << "Age after birthday: " << age << endl; 
     cout << &age <<endl; // Output: 18
+
+    int *a;
+    cout<<a;
     return 0;
 }    
